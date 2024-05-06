@@ -1,4 +1,5 @@
 # Data-Analysis-and-Preparation
+## Converting the raw SCMS.csv dataset into a refined Consignment.csv format optimized for Model Building.
 #### Consignment Pricing Project
 
 ## Overview
